@@ -10,7 +10,7 @@ The goal is to bridge psychology research methodology with applied multi-agent A
 
 ## Tech
 
-- **Groq API** — running on `llama-3.3-70b-versatile` for fast inference
+- **Groq API** — running on `openai/gpt-oss-120b` for fast inference
 - Python-based agent architecture
 
 ## Status
