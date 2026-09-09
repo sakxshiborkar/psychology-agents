@@ -1,3 +1,4 @@
+# Marcus: an autonomous agent with multi-tool selection, chained multi-step tool calls, and persistent conversation memory (Groq gpt-oss-120b)
 import os
 import json
 from dotenv import load_dotenv
